@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.container {
+    background-color: #07080c;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto';
+  }
+  .image {
+    height: 40vh;
+    background-size: cover;
+  }
+  
+  .main-head {
+    color: #ffffff;
+    font-size: 46px;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .heading {
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: 600;
+  }
+  .para {
+    color: #cbd5e1;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .btn1 {
+    color: #ffffff;
+    background-color: #0b69ff;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 7px 16px;
+    margin: 12px;
+    cursor: pointer;
+    outline: none;
+  }
+  .btn2 {
+    color: #94a3b8;
+    border-color: #94a3b8;
+    border-style: solid;
+    background-color: #07080c;
+    border-width: 1px;
+    border-radius: 5px;
+    padding: 7px 16px;
+    margin: 12px;
+    cursor: pointer;
+    outline: none;
+  }
+  
